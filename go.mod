@@ -1,6 +1,6 @@
-module github.com/google/generative-ai-go
+module github.com/casibase/generative-ai-go
 
-go 1.21
+go 1.20
 
 require (
 	cloud.google.com/go/ai v0.3.0
